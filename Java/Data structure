@@ -1,1 +1,22 @@
+public class student {
+
+    public static void main(String[] args){
+        int studentage = 15;
+        double studentgpa = 3.45;
+
+        boolean hasperfectttendance = true;
+        String studentname = "kelen harry";
+        char studentfirstinitial = studentname.charAt(2);
+        char studentlastinitial = studentname.charAt(studentname.length()-2);
+
+        System.out.println(studentage);
+        System.out.println(studentgpa);
+
+        System.out.println(hasperfectttendance);
+        System.out.println(studentname);
+        System.out.println(studentfirstinitial);
+        System.out.println(studentlastinitial);
+
+    }
+}
 
