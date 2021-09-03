@@ -50,3 +50,15 @@ class staircase {
         bufferedReader.close();
     }
 }
+
+
+OUTPUT:
+6
+     *
+    **
+   ***
+  ****
+ *****
+******
+
+Process finished with exit code 0
