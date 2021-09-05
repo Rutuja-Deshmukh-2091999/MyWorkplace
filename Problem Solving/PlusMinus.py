@@ -35,3 +35,21 @@ if __name__ == '__main__':
     arr = list(map(int, input().rstrip().split()))
 
     plusMinus(arr)
+
+    
+    
+    
+OUTPUT
+Input (stdin)
+6
+-4 3 -9 0 4 1
+Your Output (stdout)
+0.5
+0.333333
+0.166667
+Expected Output
+
+Download
+0.500000
+0.333333
+0.166667
