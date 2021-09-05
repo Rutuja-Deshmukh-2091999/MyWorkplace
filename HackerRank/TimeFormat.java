@@ -54,3 +54,14 @@ public class Solution
         bufferedWriter.close();
     }
 }
+
+
+Input (stdin)
+
+07:05:45PM
+Your Output (stdout)
+
+19:05:45
+Expected Output
+
+19:05:45
