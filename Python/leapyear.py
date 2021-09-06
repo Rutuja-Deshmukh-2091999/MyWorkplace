@@ -10,3 +10,7 @@ def is_leap(year):
     return leap
 
 
+OUTPUT
+2000
+
+True
