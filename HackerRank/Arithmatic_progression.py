@@ -1,3 +1,5 @@
+# Arithmatic Progression a + a + d + a + 2d + a + 3d
+
 def sumofap(a,d,n):
     sum = 0;
     i = 0 ;
@@ -11,3 +13,9 @@ def sumofap(a,d,n):
 
 a,d,n = map(int,input().split())
 print(sumofap(a,d,n))
+
+
+OUTPUT
+
+1 2 4 
+16
