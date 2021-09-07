@@ -6,7 +6,7 @@ public class loops {
         Scanner s = new Scanner(System.in);
         boolean isonrepeat = true;
         while(isonrepeat){
-            System.out.println("Playing your song om repeat");
+            System.out.println("Playing your song on repeat");
             System.out.println("Do you want to exit ?");
 
             String a = s.nextLine();
